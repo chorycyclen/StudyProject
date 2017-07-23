@@ -1,0 +1,6 @@
+# 忽略.idea目录
+.idea/
+# 忽略db文件
+*.sqlite3
+#忽略txt
+*.txt
